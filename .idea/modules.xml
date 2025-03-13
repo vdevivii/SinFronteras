@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SinFronterasBackE.iml" filepath="$PROJECT_DIR$/.idea/SinFronterasBackE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SinFronteras.iml" filepath="$PROJECT_DIR$/.idea/SinFronteras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinFronterasBackE/SinFronterasBackE.iml" filepath="$PROJECT_DIR$/SinFronterasBackE/SinFronterasBackE.iml" />
     </modules>
   </component>
 </project>
